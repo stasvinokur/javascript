@@ -1,1 +1,1 @@
-line from branch1 - commit 1
+line from branch1 - commit 2
